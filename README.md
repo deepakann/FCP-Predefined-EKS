@@ -13,6 +13,7 @@ Source Code: github.com/terraform-aws-modules/terraform-aws-vpc
 EKS:
 terraform-aws-modules/eks/aws | Terraform Registry
 Source Code: github.com/terraform-aws-modules/terraform-aws-eks 
+<img width="1727" height="845" alt="image" src="https://github.com/user-attachments/assets/baf47cb4-c032-4fbd-884d-dfc934913c63" />
 
 
 
